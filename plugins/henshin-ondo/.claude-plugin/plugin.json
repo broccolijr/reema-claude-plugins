@@ -1,0 +1,12 @@
+{
+  "name": "henshin-ondo",
+  "version": "0.1.0",
+  "description": "お店・小さな会社の人が送る短い文(返信・LINE・DM・メール)の温度を整える。へりくだりすぎず、盛らず、不安を先に渡さない。",
+  "author": {
+    "name": "REEMA",
+    "url": "https://reema.jp/ai-soshiki/"
+  },
+  "homepage": "https://reema.jp/ai-soshiki/",
+  "license": "MIT",
+  "keywords": ["japanese", "writing", "small-business", "reply", "tone"]
+}

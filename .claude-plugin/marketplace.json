@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "reema",
+  "description": "小さなお店・会社のための、Claude Code の道具箱(REEMA)",
+  "owner": {
+    "name": "REEMA",
+    "url": "https://reema.jp/ai-soshiki/"
+  },
+  "plugins": [
+    {
+      "name": "henshin-ondo",
+      "description": "返信・LINE・DM・メールの温度を整える。へりくだりすぎず、盛らず、不安を先に渡さない。",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": "./plugins/henshin-ondo"
+    }
+  ]
+}
